@@ -16,7 +16,7 @@ Your gif here!
 Your gif here!
 
 ### Joe
-Your gif here!
+https://gph.is/19ZtHDN
 
 ### Lidet
 Your gif here!
