@@ -8,7 +8,7 @@ Find a GIF or image that summarizes how you're feeling about today being Friday.
 Your gif here!
 
 ### Andy
-Your gif here!
+![Andy's Gif](images/andy.gif)
 
 ### Chuck
 Your gif here!
