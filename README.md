@@ -16,7 +16,7 @@ Check the "Pull requests" tab to see a merged example of what my pull request!
 Your gif here!
 
 ### Joe
-Your gif here!
+![Joe's Gif](images/Photos.gif)
 
 ### Lidet
 Your gif here!
