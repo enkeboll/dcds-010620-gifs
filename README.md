@@ -7,7 +7,7 @@ Find a GIF or image that summarizes how you're feeling about today being Friday.
 Check the "Pull requests" tab to see a merged example of what my pull request!
 
 ### Akshay
-Your gif here!
+![Akshay's Gif](images/akshay.gif)
 
 ### Andy
 ![Andy's Gif](images/andy.gif)
