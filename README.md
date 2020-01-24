@@ -16,7 +16,7 @@ Your gif here!
 Your gif here!
 
 ### Joe
-Your gif here!
+https://media.giphy.com/media/Q42cpzgcUeZkA/giphy.gif
 
 ### Lidet
 Your gif here!
