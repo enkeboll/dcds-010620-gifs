@@ -19,7 +19,7 @@ Your gif here!
 Your gif here!
 
 ### Lidet
-![](Friday_mood.gif)
+![](images/Friday_mood.gif)
 
 
 ### Zaki
