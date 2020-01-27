@@ -19,7 +19,7 @@ Your gif here!
 Your gif here!
 
 ### Lidet
-![alt-text] https://giphy.com/gifs/frustrated-ryan-gosling-wMvESGxZ0Cqd2.gif
+![]https://github.com/enkeboll/dcds-010620-gifs/blob/lidet/Friday_mood.gif
 
 
 ### Zaki
