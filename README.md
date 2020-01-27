@@ -19,7 +19,7 @@ Your gif here!
 Your gif here!
 
 ### Lidet
-![]https://github.com/enkeboll/dcds-010620-gifs/blob/lidet/Friday_mood.gif
+![] https://github.com/enkeboll/dcds-010620-gifs/blob/lidet/Friday_mood.gif
 
 
 ### Zaki
