@@ -13,7 +13,7 @@ Your gif here!
 ![Andy's Gif](images/andy.gif)
 
 ### Chuck
-Your gif here!
+![Chuck's Gif (images/giphy.gif)
 
 ### Joe
 Your gif here!
